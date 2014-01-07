@@ -3,6 +3,6 @@ Expropriation Dynamics, 2009
 
 Numerical Analysis for:
 
-Aguiar, Mark, Manuel Amador, and Gita Gopinath. "Expropriation Dynamics." American Economic Review P&amp;P, 99(2): 473-79.
+Mark Aguiar, Manuel Amador, and Gita Gopinath. "Expropriation Dynamics." American Economic Review P&amp;P, 99(2): 473-79.
 
 
