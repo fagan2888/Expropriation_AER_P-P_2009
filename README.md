@@ -1,4 +1,4 @@
-Expropriation_AER_P-P_2009
+Expropriation Dynamics, 2009
 ==========================
 
 Numerical Analysis for:
